@@ -16,12 +16,6 @@ A blog writing forum/space for people to express their views/ share their experi
 ### Feedback/Experience of Disaster-affected people 
 A timely and thoughtful evaluation process is essential in determining what worked versus what did not, so that future revisions and enhancements to the disaster plan and response system can be made. So, it is important to take the feedback from disaster-affected people regarding the failure to implement any phase of the disaster management process so that loss of life can be minimized as much as possible in the future. 
 
-## Team Members
-We ( team name - Codiak ) are a group of three studying Applied Mathematics at IIT Roorkee. 
-
-* **Bhavesh Patidar** - [Bhavesh Patidar](https://github.com/BhaveshPatidar)
-* **Kshitiz Kashyap** - [Kshitiz Kashyap](https://github.com/kshitizkashyap)
-* **Savish Bedi** - [Savish Bedi ](https://github.com/savish28)
 
 
 
